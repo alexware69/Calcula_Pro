@@ -3,6 +3,7 @@
 # Calcula Pro
 [![Latest Release](https://img.shields.io/github/release/alexwareb9/CalculaPro.svg)](https://github.com/alexwareb9/CalculaPro/releases/latest)
 [![Github All Releases](https://img.shields.io/github/downloads/alexwareb9/CalculaPro/total.svg)](https://github.com/alexwareb9/CalculaPro/releases)
+[![Github All Releases](https://img.shields.io/badge/platform-cross˗platform-blue)](https://github.com/alexwareb9/CalculaPro/releases)
 [![GitHub Follow](https://img.shields.io/github/followers/alexwareb9?style=social&logo=github)](https://github.com/alexwareb9)
 
 <a href="https://www.paypal.com/donate/?hosted_button_id=NT7BU39R82PHE">
