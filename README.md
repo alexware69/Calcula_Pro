@@ -5,6 +5,10 @@
 [![Github All Releases](https://img.shields.io/github/downloads/alexwareb9/CalculaPro/total.svg)](https://github.com/alexwareb9/CalculaPro/releases)
 [![GitHub Follow](https://img.shields.io/github/followers/alexwareb9?style=social&logo=github)](https://github.com/alexwareb9)
 
+<a href="https://www.paypal.com/donate/?hosted_button_id=NT7BU39R82PHE">
+    <img align="right" src="https://github.com/alexwareb9/Calcula-Pro/blob/master/OPS/wwwroot/Images/paypal-donate.png" style="width: 100px; height: 50px; border: 2px solid black; margin-right: 10px;" />
+</a>
+
 <div style="text-align: right">
 
 
@@ -109,8 +113,3 @@ Expressions can contain most common math functions in addition to IF conditions.
 | Sqrt          | Returns the square root of a specified number.                                                                                                                                                               | Sqrt(4)             | 2d     |
 | Tan           | Returns the tangent of the specified angle.                                                                                                                                                                  | Tan(0)              | 0d     |
 | Truncate      | Calculates the integral part of a number.                                                                                                                                                                    | Truncate(1.7)       | 1      |
-
-
-
-
-[![paypal](https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif)](https://www.paypal.com/donate/?hosted_button_id=NT7BU39R82PHE)
