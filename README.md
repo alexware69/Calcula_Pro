@@ -1,8 +1,8 @@
 [<img src="https://github.com/alexwareb9/Calcula-Pro/blob/master/OPS/wwwroot/Images/ops.png" width="100" />](https://github.com/alexwareb9/Calcula-Pro)
 
 # Calcula Pro
-[![Latest Release](https://img.shields.io/github/release/alexwareb9/Calcula-Pro.svg)](https://github.com/alexwareb9/Calcula-Pro/releases/latest)
-[![Github All Releases](https://img.shields.io/github/downloads/alexwareb9/Calcula-Pro/total.svg)](https://github.com/alexwareb9/Calcula-Pro/releases)
+[![Latest Release](https://img.shields.io/github/release/alexwareb9/CalculaPro.svg)](https://github.com/alexwareb9/CalculaPro/releases/latest)
+[![Github All Releases](https://img.shields.io/github/downloads/alexwareb9/CalculaPro/total.svg)](https://github.com/alexwareb9/CalculaPro/releases)
 [![GitHub Follow](https://img.shields.io/github/followers/alexwareb9?style=social&logo=github)](https://github.com/alexwareb9)
 
 ## Features of Calcula Pro
