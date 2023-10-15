@@ -16,11 +16,7 @@
 * Supports most common math expressions and logic conditions.
 * Multiple same-name fields are supported (compare to Excel single-name naming of cells)
 * Shows node names, formulas, subtotals and node values with respective units and descriptions at the same time.
-* Create and modify product definitions via web.
-* Upload and download existing product definitions.
 * Create and analyze price quotes of complex products.
-* Calculations are server-based, which reduces the load on the client computer and keeps formulas and logic safe from viewing and modifying.
-* Re-quoting based on the original formulas.
 * Shows dependencies and references.
 * Two views available, wide screen for easier formula reading and shared screen for easier description viewing.
 * Compact mode for cleaner view of selections.
