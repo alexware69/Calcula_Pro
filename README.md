@@ -16,7 +16,7 @@
 </div>
 
 #
-<img src="https://img1.wsimg.com/isteam/ip/223ae777-4571-4ca4-8b7f-77ff0ee746ab/Screenshot%202023-10-12%20at%201.52.36%E2%80%AFAM.jpeg"/>
+<kbd><img src="https://img1.wsimg.com/isteam/ip/223ae777-4571-4ca4-8b7f-77ff0ee746ab/Screenshot%202023-10-12%20at%201.52.36%E2%80%AFAM.jpeg"/></kbd>
 <p align="center"><em>This is an example product definition of an advertising sign.</em></p>
 
 ## Features of Calcula Pro
