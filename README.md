@@ -81,8 +81,7 @@ Expressions can contain most common math functions in addition to IF conditions.
 
 **Conditional (IF conditions):**
 ```
-* if(TriFace Sign\Motor Type\1_3 HP.selected,10,60) (discontinued syntax)
-* TriFace Sign\Motor Type\1_3 HP.selected?10:60 (same as above with correct syntax)
+* TriFace Sign\Motor Type\1_3 HP.selected?10:60
 * TriFace Sign\BomGen\Side Frm=4?0.75:0
 * TriFace Sign\BomGen\Side Frm.max> TriFace Sign\Length?0.75:0
 * TriFace Sign\Louver Orientation\Vertical.selected?2*O10:0
