@@ -1,20 +1,20 @@
-<img align="left" src="https://github.com/alexwareb9/Calcula-Pro/blob/master/OPS/wwwroot/Images/ops.png" width="200" />
+<img align="left" src="https://github.com/alepedia69/Calcula-Pro/blob/master/OPS/wwwroot/Images/ops.png" width="200" />
 
-# Calcula Pro
-[![Latest Release](https://img.shields.io/github/release/alexwareb9/CalculaPro.svg)](https://github.com/alexwareb9/CalculaPro/releases/latest)
-[![Github All Releases](https://img.shields.io/github/downloads/alexwareb9/CalculaPro/total.svg)](https://github.com/alexwareb9/CalculaPro/releases)
-[![Github All Releases](https://img.shields.io/badge/platform-cross˗platform-blue)](https://github.com/alexwareb9/CalculaPro/releases)
-[![GitHub Follow](https://img.shields.io/github/followers/alexwareb9?style=social&logo=github)](https://github.com/alexwareb9)
+### Calcula Pro
+[![Latest Release](https://img.shields.io/github/release/alepedia69/CalculaPro.svg)](https://github.com/alepedia69/Calcula-Pro/releases/latest)
+[![Github All Releases](https://img.shields.io/github/downloads/alepedia69/CalculaPro/total.svg)](https://github.com/alepedia69/Calcula-Pro/releases)
+[![Github All Releases](https://img.shields.io/badge/platform-cross˗platform-blue)](https://github.com/alepedia69/CalculaPro/releases)
 
 <a href="https://www.paypal.com/donate/?hosted_button_id=NT7BU39R82PHE">
-    <img align="right" src="https://github.com/alexwareb9/Calcula-Pro/blob/master/OPS/wwwroot/Images/paypal-donate.png" style="width: 100px; height: 50px; border: 2px solid black; margin-right: 10px;" />
+    <img align="right" src="https://github.com/alepedia69/Calcula-Pro/blob/master/OPS/wwwroot/Images/paypal-donate.png" style="width: 100px; height: 50px; border: 2px solid black; margin-right: 10px;" />
 </a>
 
 <div style="text-align: right">
-
-
-**Calcula Pro** is an innovative desktop app. It helps in **designing**, **implementing**, **documenting**, **presenting**, **quoting** and **storing** unfinished goods, insurance premiums, taxes and many others.
+    
+Calcula Pro is an innovative desktop app. It helps in **designing**, **implementing**, **documenting**, **presenting**, **quoting** and **storing** unfinished goods, insurance premiums, taxes and many others.
 </div>
+
+[![Get it from the Snap Store](https://snapcraft.io/static/images/badges/en/snap-store-black.svg)](https://snapcraft.io/calcula-pro)
 
 #
 <kbd><img src="https://img1.wsimg.com/isteam/ip/223ae777-4571-4ca4-8b7f-77ff0ee746ab/Screenshot%202023-10-12%20at%201.52.36%E2%80%AFAM-27426e6.jpeg"/></kbd>
@@ -29,12 +29,14 @@
 * Folder nature of product definitions makes teamwork easy and natural, as well as making possible to backup and storing definitions offline.
 * Readable formulas are made of words, now with autocomplete.
 * Supports most common math expressions and logic conditions.
-* Multiple same-name fields are supported (compare to Excel single-name naming of cells)
+* Multiple same-name nodes are supported (compare to Excel single-name naming of cells)
+* UTF-16 characters in node names inside an expression (Eg: $u263A).
 * Shows node names, formulas, subtotals and node values with respective units and descriptions at the same time.
 * Create and analyze price quotes of complex products.
 * Shows dependencies and references.
 * Two views available, wide screen for easier formula reading and shared screen for easier description viewing.
 * Compact mode for cleaner view of selections.
+* True dark mode.
 * Seamless adjustment for window resizing and zooming.
 * Supports documentation for each feature (node), including text, image and video, in the form of an html page.
 * It is fast!
@@ -47,6 +49,7 @@
 ```
 * **Type**: Math, Decision, Conditional, Text, SumSet, Reference, Date, Today.
 * **Units**: There are currently some common predefined units, custom units can be set.
+* **Decimal Places**: Decimal places of the subtotal shown.
 * **Expression**: Some node types require an expression or formula, like Math, Conditional and Reference.
 * **Expanded Levels**: The number of levels that will be automatically expanded from the root node on product load and from any node on node selection. This is useful to cover the most screen on product load and to show multiple nested options on selection.
 * **Order**: Zero by default.The order in which the node appears. It is zero-based.
@@ -114,3 +117,7 @@ Expressions can contain most common math functions in addition to IF conditions.
 | Sqrt          | Returns the square root of a specified number.                                                                                                                                                               | Sqrt(4)             | 2d     |
 | Tan           | Returns the tangent of the specified angle.                                                                                                                                                                  | Tan(0)              | 0d     |
 | Truncate      | Calculates the integral part of a number.                                                                                                                                                                    | Truncate(1.7)       | 1      |
+| DayDiff      | Calculates the difference in days between two dates.                                                                                                                                                                    | DayDiff(#04/06/1999#,#03/12/2024#)       | 9107      |
+| MonthDiff      | Calculates the difference in months between two dates.                                                                                                                                                                    | MonthDiff(#04/06/1999#,#03/12/2024#)       | 299      |
+| YearDiff      | Calculates the difference in years between two dates.                                                                                                                                                                    | YearDiff(#04/06/1999#,#03/12/2024#)       | 24      |
+
