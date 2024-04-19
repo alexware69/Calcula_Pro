@@ -1,8 +1,8 @@
 <img align="left" src="https://github.com/alepedia69/Calcula-Pro/blob/master/OPS/wwwroot/Images/ops.png" width="200" />
 
 ### Calcula Pro
-[![Latest Release](https://img.shields.io/github/release/alepedia69/CalculaPro.svg)](https://github.com/alepedia69/Calcula-Pro/releases/latest)
-[![Github All Releases](https://img.shields.io/github/downloads/alepedia69/CalculaPro/total.svg)](https://github.com/alepedia69/Calcula-Pro/releases)
+[![Latest Release](https://img.shields.io/github/release/alepedia69/CalculaPro.svg)](https://github.com/alepedia69/CalculaPro/releases/latest)
+[![Github All Releases](https://img.shields.io/github/downloads/alepedia69/CalculaPro/total.svg)](https://github.com/alepedia69/CalculaPro/releases)
 [![Github All Releases](https://img.shields.io/badge/platform-cross˗platform-blue)](https://github.com/alepedia69/CalculaPro/releases)
 
 <a href="https://www.paypal.com/donate/?hosted_button_id=NT7BU39R82PHE">
