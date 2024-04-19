@@ -1,9 +1,9 @@
 <img align="left" src="https://github.com/alepedia69/Calcula-Pro/blob/master/OPS/wwwroot/Images/ops.png" width="200" />
 
 ### Calcula Pro
-[![Latest Release](https://img.shields.io/github/release/alepedia69/CalculaPro.svg)](https://github.com/alepedia69/CalculaPro/releases/latest)
-[![Github All Releases](https://img.shields.io/github/downloads/alepedia69/CalculaPro/total.svg)](https://github.com/alepedia69/CalculaPro/releases)
-[![Github All Releases](https://img.shields.io/badge/platform-cross˗platform-blue)](https://github.com/alepedia69/CalculaPro/releases)
+[![Latest Release](https://img.shields.io/github/release/alepedia69/Calcula_Pro.svg)](https://github.com/alepedia69/Calcula_Pro/releases/latest)
+[![Github All Releases](https://img.shields.io/github/downloads/alepedia69/Calcula_Pro/total.svg)](https://github.com/alepedia69/Calcula_Pro/releases)
+[![Github All Releases](https://img.shields.io/badge/platform-cross˗platform-blue)](https://github.com/alepedia69/Calcula_Pro/releases)
 
 <a href="https://www.paypal.com/donate/?hosted_button_id=NT7BU39R82PHE">
     <img align="right" src="https://github.com/alepedia69/Calcula-Pro/blob/master/OPS/wwwroot/Images/paypal-donate.png" style="width: 100px; height: 50px; border: 2px solid black; margin-right: 10px;" />
