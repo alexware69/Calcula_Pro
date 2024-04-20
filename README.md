@@ -20,6 +20,10 @@ Calcula Pro is an innovative desktop app. It helps in **designing**, **implement
 <img src="https://img1.wsimg.com/isteam/ip/223ae777-4571-4ca4-8b7f-77ff0ee746ab/Screenshot%202024-04-20%20at%2010.45.46%E2%80%AFAM.png"/>
 <p align="center"><em>This is an example product definition of an advertising sign.</em></p>
 
+#
+<img src="https://img1.wsimg.com/isteam/ip/223ae777-4571-4ca4-8b7f-77ff0ee746ab/Calcula%20Pro-dark-be76945.png"/>
+<p align="center"><em>With dark mode applied.</em></p>
+
 ## Features of Calcula Pro
 
 * It is web-based.
