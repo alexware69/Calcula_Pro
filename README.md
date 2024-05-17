@@ -38,7 +38,7 @@ For MacOS: <kbd>cmd</kbd>+<kbd>shift</kbd>+<kbd>R</kbd>
 * Readable formulas are made of words, now with autocomplete.
 * Supports most common math expressions and logic conditions.
 * Multiple same-name nodes are supported (compare to Excel single-name naming of cells)
-* UTF-16 characters in node names inside an expression (Eg: $u263A).
+* UTF-16 characters in node names and inside expressions.
 * Shows node names, formulas, subtotals and node values with respective units and descriptions at the same time.
 * Create and analyze price quotes of complex products.
 * Shows dependencies and references.
