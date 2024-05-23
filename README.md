@@ -18,7 +18,7 @@ Calcula Pro is an innovative desktop app. It helps in **designing**, **implement
 
 #
 > [!IMPORTANT] 
-> After installing a new version please do a hard refresh on both, the Edit Definition and New Quote pages.  
+> After installing a new version please do a hard refresh on both, the **Edit Definition** and **New Quote** pages.  
 > For Windows/Linux: <kbd>ctrl</kbd>+<kbd>shift</kbd>+<kbd>R</kbd>  
 > For MacOS: <kbd>cmd</kbd>+<kbd>shift</kbd>+<kbd>R</kbd>
 
