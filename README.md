@@ -5,7 +5,7 @@
 [![Github All Releases](https://img.shields.io/github/downloads/alexware69/Calcula_Pro/total.svg)](https://github.com/alexware69/Calcula_Pro/releases)
 [![Github All Releases](https://img.shields.io/badge/platform-cross˗platform-blue)](https://github.com/alexware69/Calcula_Pro/releases)
 
-<a href="https://buymeacoffee.com/alepedia">
+<a href="https://buymeacoffee.com/alexware69">
     <img align="right" src="https://github.com/alexware69/Calcula_Pro/blob/main/Images/buy-me-a-coffee.jpeg" style="width: 100px; height: 100px; border: 2px solid black; margin-right: 10px;" />
 </a>
 
