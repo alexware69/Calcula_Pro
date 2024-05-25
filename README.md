@@ -1,12 +1,12 @@
-<img align="left" src="https://github.com/alepedia69/Calcula_Pro/blob/main/Images/ops.png" width="200" />
+<img align="left" src="https://github.com/alexware69/Calcula_Pro/blob/main/Images/ops.png" width="200" />
 
 ### Calcula Pro
-[![Latest Release](https://img.shields.io/github/release/alepedia69/Calcula_Pro.svg)](https://github.com/alepedia69/Calcula_Pro/releases/latest)
-[![Github All Releases](https://img.shields.io/github/downloads/alepedia69/Calcula_Pro/total.svg)](https://github.com/alepedia69/Calcula_Pro/releases)
-[![Github All Releases](https://img.shields.io/badge/platform-cross˗platform-blue)](https://github.com/alepedia69/Calcula_Pro/releases)
+[![Latest Release](https://img.shields.io/github/release/alexware69/Calcula_Pro.svg)](https://github.com/alexware69/Calcula_Pro/releases/latest)
+[![Github All Releases](https://img.shields.io/github/downloads/alexware69/Calcula_Pro/total.svg)](https://github.com/alexware69/Calcula_Pro/releases)
+[![Github All Releases](https://img.shields.io/badge/platform-cross˗platform-blue)](https://github.com/alexware69/Calcula_Pro/releases)
 
 <a href="https://buymeacoffee.com/alepedia">
-    <img align="right" src="https://github.com/alepedia69/Calcula_Pro/blob/main/Images/buy-me-a-coffee.jpeg" style="width: 100px; height: 100px; border: 2px solid black; margin-right: 10px;" />
+    <img align="right" src="https://github.com/alexware69/Calcula_Pro/blob/main/Images/buy-me-a-coffee.jpeg" style="width: 100px; height: 100px; border: 2px solid black; margin-right: 10px;" />
 </a>
 
 <div style="text-align: right">
