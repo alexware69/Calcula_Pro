@@ -22,6 +22,11 @@ Calcula Pro is an innovative desktop app. It helps in **designing**, **implement
 > For **Windows/Linux**: <kbd>ctrl</kbd>+<kbd>shift</kbd>+<kbd>R</kbd>  
 > For **MacOS**: <kbd>cmd</kbd>+<kbd>shift</kbd>+<kbd>R</kbd>
 
+> [!NOTE] 
+> To open Calcula Pro in "Quote Only" mode (Tip: Create a shortcut with this command and place it on the desktop):  
+> For **Windows**: ```"Calcula Pro.exe" /args --quoteonly```  
+> For **MacOS**: ```open Calcula\ Pro.app --args -quoteonly```
+
 <img src="https://img1.wsimg.com/isteam/ip/223ae777-4571-4ca4-8b7f-77ff0ee746ab/Screenshot%202024-04-20%20at%2010.45.46%E2%80%AFAM.png"/>
 <p align="center"><em>This is an example product definition of an advertising sign.</em></p>
 
